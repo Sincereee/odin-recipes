@@ -1,0 +1,26 @@
+.recipe-name {
+    font-weight: bold;
+    font-size: 24px;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 940px;
+}
+
+p {
+    font-size: 18px;
+}
+
+ul {
+    font-size: 18px;
+}
+
+ol {
+    font-size: 18px;
+}
